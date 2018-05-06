@@ -3,5 +3,9 @@
         "psr-4" : {
             "SOLID\\" : "Principles/"
         }
+    },
+    "require-dev": {
+        "squizlabs/php_codesniffer": "^3.2.0",
+        "phpmd/phpmd": "^2.6.0"
     }
 }
