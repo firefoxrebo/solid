@@ -1,6 +1,10 @@
 <?php
 namespace SOLID\SRP;
 
+/**
+ * Class Driver
+ * @package SOLID\SRP
+ */
 class Driver
 {
 

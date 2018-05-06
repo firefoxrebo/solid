@@ -1,6 +1,10 @@
 <?php
 namespace SOLID\SRP;
 
+/**
+ * Class Bus
+ * @package SOLID\SRP
+ */
 class Bus
 {
 

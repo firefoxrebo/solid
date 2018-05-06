@@ -1,6 +1,10 @@
 <?php
 namespace SOLID\SRP;
 
+/**
+ * Class Route
+ * @package SOLID\SRP
+ */
 class Route
 {
     /**
