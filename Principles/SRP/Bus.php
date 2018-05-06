@@ -165,21 +165,6 @@ class Bus
     }
 
     /**
-     * @param string $from the from destination
-     * @param string $to the to destination
-     * @return string the output
-     */
-    public function driveToRoute(string $from, string $to) : string
-    {
-        return 'The bus is moving from ' . $from . ' to ' . $to;
-    }
-
-    public function doMaintenance()
-    {
-        return 'The bus is doing maintenance right now';
-    }
-
-    /**
      * @return string
      */
     public function move() : string
